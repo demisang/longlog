@@ -19,6 +19,7 @@
 return [
     'DURATION_NUMBER_VALIDATION_FAIL_{attribute}{min}{max}' => '{attribute} должно быть числом в диапазоне от {min} до {max}',
     'ERROR' => 'Ошибка',
+    'JOB_NOT_FOUND' => 'Задача не найдена',
     'JOB_STAT_NOT_EXIST' => 'Статистика недоступна',
     'LOGIN_INCORRECT_USERNAME_OR_PASSWORD' => 'Неверное имя пользователя или пароль',
     'NEW_PROJECT_OWNER_USER_NOT_FOUND' => 'Пользователь не найден',
